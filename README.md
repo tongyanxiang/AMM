@@ -12,14 +12,12 @@
     * [Dataset](https://drive.google.com/drive/folders/1NwNFJ8foMmrPa-Q07GTOMBx7YDD221v1?usp=drive_link) presents tracing files of all experimental configurations.
 
 * **Installation and execution**
-	* Requirements
-	  * Ubuntu 20.04 LTS
-	  * Python 3.8.10 (with numpy, scikit-learn, scipy and cvxopt)
-	  * ROS Noetic (for BSN)
-	  * OMNeT++ 6.0, Boost 1.65.1, jdk11, and Pydev10.0.0 (for RUBiS)
-
+	* Clone the AMM artifact.
+		```
+		git clone https://github.com/tongyanxiang/AMM.git
+		```
 	  
-	* Go to the subfloder to install and execute each implementation, the instructions of each implementation are shown in subfloder's README file. The **artifact** is organized as follows:
+	* Go to the subfloder to install and execute AMM implementation, the instructions of each implementation are shown in subfloder's README file. The **AMM artifact** is organized as follows:
 		```
 		.
 		├── BSN
