@@ -12,7 +12,7 @@
     * [Dataset](https://drive.google.com/drive/folders/1NwNFJ8foMmrPa-Q07GTOMBx7YDD221v1?usp=drive_link) presents tracing files of all experimental configurations.
 
 * **Installation and execution**
-	* Clone the AMM artifact.
+	* Clone the AMM artifact:
 		```
 		git clone https://github.com/tongyanxiang/AMM.git
 		```
