@@ -1,4 +1,4 @@
-# AMM (Active Monitoring Mechanism）
+# Active Monitoring Mechanism (AMM)
 
 **AMM** is a solution for detecting model deviation in control-based self-adaptive systems with vague observation. Given runtime measurements of a control-based self-adaptive system, AMM generates an active control signal if needed and gives an alarm when model deviation is detected.
 
