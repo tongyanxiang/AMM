@@ -1,1 +1,2 @@
-Active Monitoring Mechanism © 2024 by Yi Qin, Yanxiang Tong, Yifei Xu, Chun Cao, Xiaoxing Ma is licensed under Creative Commons Attribution 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+Active Monitoring Mechanism © 2024 by Yi Qin, Yanxiang Tong, Yifei Xu, Chun Cao, Xiaoxing Ma is licensed under Creative Commons Attribution 4.0 International. 
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
